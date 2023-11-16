@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://my.linkedin.com/in/feadrick-masdin-198386174
 <!--
 **feadrick/feadrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
